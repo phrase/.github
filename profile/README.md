@@ -1,9 +1,11 @@
 # Hi, we’re Phrase 👋
-
 ![Phrase Logo](assets/logo.png)
+## 🌐 Software Localization Built for Developers
+Phrase was created for developers, by developers: highly intuitive, efficient, and easily integrated. We are the leading software localization platform, helping teams of all sizes to scale their translation processes through smart automation.
 
-## Software Localization Built for Developers
+<br />
 
+## ✨ Features
 ### API
 Adjust Phrase to your workflow. [Our  API](https://developers.phrase.com/api/)  allows you to import locale files, download locale files, tag keys or interact in other ways with the localization data stored in Phrase for your account.
 
@@ -28,4 +30,16 @@ Let Phrase translate new content automatically using Machine Translation and Tra
 ### Formats
 Phrase supports a huge variety of ways to export and import your translations for [all common localization file formats](https://help.phrase.com/help/supported-formats).
 
+
 ![Phrase Editor](assets/translation_editor.png)
+*The Translation Editor lets you manage translations​ quickly with as much context and assistance as possible.*
+
+<br />
+
+## 💡 More about Phrase
+
+- [See our website](https://phrase.com/)
+- [Read the docs](https://help.phrase.com/)
+- [Try Phrase for free](https://app.phrase.com/signup) or [book a demo](https://phrase.com/demo-request/)
+- [About us](https://phrase.com/about/)
+- [Join our team – we're hiring!](https://phrase.com/careers/)
