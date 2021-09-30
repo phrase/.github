@@ -1,6 +1,6 @@
 # Hi, we’re Phrase 👋
 
-![Phrase Logo](assets/logo.png)
+![Phrase Logo](https://github.com/phrase/.github/tree/main/profile/assets/logo.png)
 ## 🌐 Software Localization Built for Developers
 Phrase was created for developers, by developers: highly intuitive, efficient, and easily integrated. We are the leading software localization platform, helping teams of all sizes to scale their translation processes through smart automation.
 
@@ -33,7 +33,7 @@ Phrase supports a huge variety of ways to export and import your translations fo
 
 <br />
 
-![Phrase Editor](assets/translation_editor.png)
+![Phrase Editor](https://github.com/phrase/.github/tree/main/profile/assets/translation_editor.png)
 *The Translation Editor lets you manage translations​ quickly with as much context and assistance as possible.*
 
 <br />
