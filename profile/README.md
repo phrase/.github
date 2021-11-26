@@ -1,6 +1,6 @@
 # Hi, we’re Phrase 👋
 
-![Phrase Logo](/profile/assets/logo.png)
+![Phrase Logo](/profile/assets/readme_banner.png)
 
 ## 🌐 Software Localization Built for Developers
 
@@ -11,6 +11,10 @@ Phrase was created for developers, by developers. Highly intuitive, efficient, a
 
 
 And developers working with Phrase really feel the difference 💪
+
+<br />
+
+![Phrase Logo](/profile/assets/readme_numbers.png)
 
 <br />
 
@@ -65,7 +69,7 @@ _In the Translation Editor the translators perform the actual translation work. 
 <br />
 <br />
 
-## The Team
+## 🏆 The Team
 
 [Phrase has joined forces with Memsource](https://www.memsource.com/blog/press-release-memsource-acquires-phrase/) 🤝 Together, we are a global team working from our offices or from home across Europe, the US, the UK, and Japan 🌏 We serve thousands of global customers and have one mission: tearing down language barriers.
 
