@@ -1,0 +1,11 @@
+{
+  "name": "Phrase Elixir Lawa Workflow",
+  "description": "Phrase Elixir Lawa Workflow template.",
+  "iconName": "phrase",
+  "categories": [
+    "Elixir"
+  ],
+  "filePatterns": [
+    "mix.exs$"
+  ]
+}
