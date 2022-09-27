@@ -65,7 +65,7 @@ Phrase supports many common [placeholder formats](https://support.phrase.com/hc/
 
 <br />
 
-![Phrase Editor](/profile/assets/translation_editor.png)
+![Phrase Editor](/profile/assets/strings_editor.png)
 _In the Translation Editor the translators perform the actual translation work. It lets you search for translations and manage keys. While translating, it provides useful meta information and assists translators and managers to quickly translate content without losing focus._
 
 <br />
