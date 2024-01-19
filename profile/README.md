@@ -22,6 +22,6 @@ At Phrase, we're not just growing our business – we're equally invested in the
 
 - [See our website](https://phrase.com/)
 - [Read the docs](https://support.phrase.com/hc/en-us/)
-- [Try Phrase for free](https://app.phrase.com/signup) or [book a demo](https://phrase.com/demo-request/)https://phrase.com/demo-request/
-- [About us](https://phrase.com/about/)https://phrase.com/about/
-- [Join our team](https://phrase.com/careers/)https://phrase.com/careers/
+- [Try Phrase for free](https://app.phrase.com/signup) or [book a demo](https://phrase.com/demo-request/)
+- [About us](https://phrase.com/about/)
+- [Join our team](https://phrase.com/careers/)
