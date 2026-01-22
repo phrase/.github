@@ -1,27 +1,32 @@
-Unlock language. Unlock opportunity.
-
-# Hi, we’re Phrase 👋
-
 ![Translating with Phrase](/profile/assets/banner.jpg)
 
-Get all the translation tools you need in one integrated product suite.
+# Hi, we’re Phrase
 
-Our Phrase Localization Suite consists of a translation management system, a software localization platform, a workflow automation tool, a data analytics platform, and AI-powered machine translation capabilities.
+Phrase helps developers manage translation and localization as part of their normal development workflow.
 
-Our software localization platform, Phrase Strings, is specially built for developers, by developers, and empowers you to centralize and manage your localization efforts, flawlessly weaving them into your development process 💪
+The Phrase Localization Platform brings together a translation management system, software localization, workflow automation, analytics, and AI-powered machine translation. It’s designed to help teams ship multilingual products faster, with automation where it makes sense and control where it matters.
 
-✨ Notable features include our comprehensive [API](https://developers.phrase.com/), the command-line interface ([CLI](https://support.phrase.com/hc/en-us/articles/5808300599068)) for straightforward localization processes, our real-time mobile app updates via [Over the Air (OTA)](https://support.phrase.com/hc/en-us/articles/5804059067804), and support for over 50 file formats. Explore these features and many more [here](https://phrase.com/products/phrase-strings/).
+Phrase Strings is our developer-focused software localization platform. It lets you manage translations directly in your existing tech stack and integrate localization cleanly into your development process.
 
-## The Team
+What you’ll find here
 
-We’re a global team at Phrase, where passion unites us from every corner of the world! Our mission is simple yet profound: unlock language to unlock endless opportunities for thousands of customers worldwide 🌏
+* Native GitHub integration to keep source files and translations in sync across branches
+* [APIs](https://developers.phrase.com/) and a [CLI](https://support.phrase.com/hc/en-us/articles/5808300599068-Using-the-CLI-Strings#UUID-9439325a-ecf6-2f99-2c1e-1bf8197c757d) for automating localization workflows and CI/CD pipelines
+* [Over-the-air (OTA)](https://support.phrase.com/hc/en-us/articles/5804059067804-Over-the-Air-Strings) updates to push translation changes to mobile and web apps without app store approvals
+* Support for [50+ file formats](https://support.phrase.com/hc/en-us/articles/9652464547740-List-of-Supported-File-Types-Strings), including JSON, XML, YAML, and more
 
-At Phrase, we're not just growing our business – we're equally invested in the personal and professional development of our team members. Discover the dynamic, inspiring environment that defines life at Phrase. Dive into our culture, meet our dedicated team, and uncover what fuels our enthusiasm. We're on the lookout for passionate, skilled individuals to enhance our journey. Could that be you? [Join us](https://phrase.com/careers/), and let’s grow together 🙌
+You can explore these tools in more detail in our [developer documentation](https://developers.phrase.com/).
 
-## 💡 More about Phrase
+## About the team
+
+We are a global team at Phrase, united by a shared mission: when you unlock language, you unlock opportunity.
+
+If you’re interested in working on developer tooling, localization infrastructure, or AI-powered language technology, open roles are listed at [phrase.com/careers](phrase.com/careers).
+
+## Learn more
 
 - [See our website](https://phrase.com/)
 - [Read the docs](https://support.phrase.com/hc/en-us/)
-- [Try Phrase for free](https://app.phrase.com/signup) or [book a demo](https://phrase.com/demo-request/)
+- [Try Phrase for free](https://phrase.com/signup) or [book a demo](https://phrase.com/demo/)
 - [About us](https://phrase.com/about/)
 - [Join our team](https://phrase.com/careers/)
