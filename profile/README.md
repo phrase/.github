@@ -1,4 +1,4 @@
-![Translating with Phrase](/profile/assets/banner.jpg)
+<img width="1840" height="600" alt="Translating with Phrase" src="https://github.com/user-attachments/assets/b876bb04-7678-4270-b99f-8b3295096eb6" />
 
 # Hi, we’re Phrase
 
